@@ -1,9 +1,8 @@
 # Simple YouTube Downloader
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://github.com/user-attachments/assets/fc634174-8574-4cf9-9a95-a8e3f4d3b3cd" height="400"/>
 
-Simple Youtube Downloader
+## Features
 
 1. Download YT video or YT music easily
 2. No ads
@@ -14,4 +13,6 @@ Simple Youtube Downloader
 7. With .exe
 8. Do not send the data to others
 
-### [Download](https://github.com/AppStudioLB/SimpleYouTubeDownloader/releases)
+### >>> [Download](https://github.com/AppStudioLB/SimpleYouTubeDownloader/releases)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
