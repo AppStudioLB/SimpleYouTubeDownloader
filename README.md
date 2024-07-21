@@ -4,7 +4,7 @@
 
 Simple Youtube Downloader
 
-1. Download YT video easily
+1. Download YT video or YT music easily
 2. No ads
 3. Simple UI
 4. Single File
