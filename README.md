@@ -1,6 +1,6 @@
 # Simple YouTube Downloader
 
-![img](https://github.com/user-attachments/assets/3231344b-9979-413e-9fe8-bbd1ae55b4c8)
+![img2](https://github.com/user-attachments/assets/bb6489b8-55a5-42a6-9110-8604289d500a)
 
 Simple Youtube Downloader
 
