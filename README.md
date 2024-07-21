@@ -10,5 +10,7 @@ Simple Youtube Downloader
 4. Single File
 5. Fast
 6. Safe
+7. With .exe
+8. Do not send the data to others
 
 ### [Download](https://github.com/AppStudioLB/SimpleYouTubeDownloader/releases)
