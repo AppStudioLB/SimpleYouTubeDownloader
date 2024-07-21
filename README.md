@@ -1,6 +1,7 @@
 # Simple YouTube Downloader
 
-![img2](https://github.com/user-attachments/assets/bb6489b8-55a5-42a6-9110-8604289d500a)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://github.com/user-attachments/assets/fc634174-8574-4cf9-9a95-a8e3f4d3b3cd" height="400"/>
 
 Simple Youtube Downloader
 
