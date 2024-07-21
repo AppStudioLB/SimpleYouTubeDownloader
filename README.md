@@ -1,4 +1,4 @@
-# SimpleYouTubeDownloader
+# Simple YouTube Downloader
 
 ![img](https://github.com/user-attachments/assets/3231344b-9979-413e-9fe8-bbd1ae55b4c8)
 
@@ -11,4 +11,4 @@ Simple Youtube Downloader
 5. Fast
 6. Safe
 
-### [Download] (https://github.com/AppStudioLB/SimpleYouTubeDownloader/releases)
+### [Download](https://github.com/AppStudioLB/SimpleYouTubeDownloader/releases)
