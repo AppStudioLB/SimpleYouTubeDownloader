@@ -1,6 +1,6 @@
 # Simple YouTube Downloader
 
-<img src="https://github.com/user-attachments/assets/fc634174-8574-4cf9-9a95-a8e3f4d3b3cd" height="400"/> ![2024-07-21 20 05 11](https://github.com/user-attachments/assets/09c38187-8721-43dc-8e09-76d0c626bb98)
+<img src="https://github.com/user-attachments/assets/fc634174-8574-4cf9-9a95-a8e3f4d3b3cd" height="300"/> ![2024-07-21 20 05 11](https://github.com/user-attachments/assets/09c38187-8721-43dc-8e09-76d0c626bb98)
 
 ## Features
 
